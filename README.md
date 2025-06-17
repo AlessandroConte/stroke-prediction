@@ -20,13 +20,18 @@ To build a predictive model that identifies individuals at risk of stroke using 
 - [x] Trained multiple ML models (Random Forest, KNN, SVC)
 - [x] Applied SMOTE for class imbalance
 - [x] Re-trained models on balanced data
+- [x] Hyperparameter tuning
+- [x] Model evaluation with multiple metrics (e.g., F1-score, ROC AUC)
+- [x] MLP train
+- [x] XGBoost train
+- [x] SMOTENN
+- [x] Creation of a downsampled dataset
+- [x] Evaluation on downsampled dataset
 
 ---
 
 ## 🛠️ Next steps
 
-- [ ] Hyperparameter tuning
-- [ ] Model evaluation with multiple metrics (e.g., F1-score, ROC AUC)
 - [ ] Feature importance and interpretability (e.g., SHAP values)
 - [ ] Final model selection and comparison
 - [ ] Documentation and visualizations
