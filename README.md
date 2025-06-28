@@ -27,6 +27,8 @@ To build a predictive model that identifies individuals at risk of stroke using 
 - [x] SMOTENN
 - [x] Creation of a downsampled dataset
 - [x] Evaluation on downsampled dataset
+- [x] Balanced Random Forest model
+- [x] Easy ensemble classifier
 
 ---
 
