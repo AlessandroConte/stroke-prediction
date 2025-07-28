@@ -2,7 +2,7 @@
 
 This project aims to predict the likelihood of a person suffering a stroke based on medical and demographic data, using various machine learning models.
 
-> ⚠️ **Note**: This project is currently a work in progress. The current version includes data exploration, preprocessing, model training, and class balancing with SMOTE.
+> ⚠️ **Note**: This project is currently a work in progress.
 
 ---
 
@@ -35,6 +35,7 @@ To build a predictive model that identifies individuals at risk of stroke using 
 
 ## 🛠️ Next steps
 
+- [ ] Conclusion
 - [ ] Documentation and visualizations
 - [ ] Optional: Streamlit dashboard for demo
 
