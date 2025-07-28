@@ -29,13 +29,12 @@ To build a predictive model that identifies individuals at risk of stroke using 
 - [x] Evaluation on downsampled dataset
 - [x] Balanced Random Forest model
 - [x] Easy ensemble classifier
+- [x] Final model selection and comparison
 
 ---
 
 ## 🛠️ Next steps
 
-- [ ] Feature importance and interpretability (e.g., SHAP values)
-- [ ] Final model selection and comparison
 - [ ] Documentation and visualizations
 - [ ] Optional: Streamlit dashboard for demo
 
