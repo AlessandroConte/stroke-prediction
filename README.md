@@ -149,7 +149,7 @@ This severe class imbalance highlights the need for techniques like **SMOTE**, *
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/stroke-prediction.git
+   git clone https://github.com/AlessandroConte/stroke-prediction.git
    cd stroke-prediction
    ```
 
@@ -183,7 +183,7 @@ This is a **portfolio project**. It is not intended for clinical use and should 
 ## 📧 Contact
 
 **Alessandro Conte**
-[LinkedIn](www.linkedin.com/in/alessandro-conte-ds)
+[LinkedIn](https://www.linkedin.com/in/alessandro-conte-ds)
 [GitHub](https://github.com/AlessandroConte)
 
 ---
