@@ -1,12 +1,10 @@
 # 🧠 Machine Learning for Stroke Prevention: Identifying At-Risk Individuals for Early Intervention
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23A5C934.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-![License](https://img.shields.io/github/license/tuo-username/stroke-prediction)
 
 ---
 
@@ -55,11 +53,11 @@ The project follows an end-to-end machine learning workflow:
 
 ### 🔍 Performance Comparison
 
-![Performance Comparison](top_models_performance_bar_chart_with_values.png)
+![Performance Comparison](images/top_models_performance_bar_chart_with_values.png)
 
 ### 🧮 Confusion Matrices of Top Models
 
-![Confusion Matrices](confusion_matrices_comparison.png)
+![Confusion Matrices](images/confusion_matrices_comparison.png)
 
 ### 📋 Model Performance Summary
 
@@ -141,7 +139,7 @@ It contains **11 clinical and demographic features** aimed at predicting whether
 
 ### 📉 Target Variable Distribution
 
-![Target Distribution](target_distribution.png)
+![Target Distribution](images/target_distribution.png)
 
 This severe class imbalance highlights the need for techniques like **SMOTE**, **undersampling**, and **cost-sensitive learning** to improve model performance, especially in reducing **false negatives**.
 
